@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**kwoojin1218/kwoojin1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱 I'm a beginner developer and a proud cat parent.
+🎓 Studying Computer Security Engineering at Myongji College
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Java
+- Python
+- C
+- Computer Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Goals
+- Code a little every day
+- Learn more about security
+
+## 📂 Study Log
+- [study-log](https://github.com/kwoojin1218/study-log)
