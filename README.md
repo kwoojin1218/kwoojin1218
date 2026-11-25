@@ -1,3 +1,6 @@
+<img src="assets/ferris-wheel.gif" alt="Ferris Wheel ASCII" width="100%" >
+
+
 # Hi there! 👋
 
 🐱 I'm a beginner developer and a proud cat parent.
