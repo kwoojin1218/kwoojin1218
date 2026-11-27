@@ -1,5 +1,5 @@
 <picture>
-    <source media= "(prefers-color-scheme: light)" srcset="assets/ferris-wheel-light.gif">
+    <source media= "(prefers-color-scheme: light)" srcset="assets/ferris-wheel-white.gif">
     <source media= "(prefers-color-scheme: dark)" srcset="assets/ferris-wheel-dark.gif">
     <img src="assets/ferris-wheel-fullblack.gif" alt="Ferris Wheel ASCII" width="100%" >
 </picture>
